@@ -1,2 +1,2 @@
 # threads-app-reviews-classfier
-This project utilizes a comprehensive dataset of user reviews for the Threads mobile app from both the Google Play Store and the App Store.
+This project utilizes a comprehensive dataset of user reviews for the Threads mobile app from both the Google Play Store and the App Store , The dataset captures valuable insights and sentiments, allowing for an in-depth analysis of user satisfaction, app performance evaluation, and the identification of emerging trends. Through classification of these reviews, this project aims to enhance understanding of user experiences and inform potential improvements for the app.
